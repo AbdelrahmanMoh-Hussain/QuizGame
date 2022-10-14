@@ -1,6 +1,6 @@
 # Quiz Game
 
-A counsol game in which number of questions are asked and the
+A console game in which number of questions are asked and the
 user is awarded a cash prize for each correct answer
 given.
 Questions are chosen in such a way that they cover some
